@@ -2,53 +2,89 @@
 
 Welcome to my certification portfolio.
 
-This repository contains my professional certifications, badges, and credentials earned throughout my learning journey in Artificial Intelligence, Cloud Computing, Cybersecurity, and Software Development.
+This repository contains my professional certifications and technical credentials earned throughout my learning journey in Artificial Intelligence, Cloud Computing, Cybersecurity, and Software Development.
 
 ---
 
-## 📂 Categories
+### ☁️ Microsoft Applied Skills
+
+#### ✅ Deploy and Configure Azure Monitor
+- **Earned:** June 21, 2026
+- **Credential:** Microsoft Applied Skills
+- **Status:** Completed
+
+##
 
 ### 🤖 Artificial Intelligence
 
-- Microsoft Applied Skills
+Currently building projects and completing Microsoft Learn modules in:
+
 - Azure AI
-- AI Fundamentals *(Coming Soon)*
+- GitHub Copilot
+- Prompt Engineering
+
+**Status:** In Progress 🚀
 
 ##
 
 ### ☁️ Cloud Computing
 
-- Azure Monitor
-- Azure Storage *(Coming Soon)*
-- Azure Identity *(Coming Soon)*
+Currently learning:
 
-##
+- Azure Storage
+- Azure Identity
+- Azure Networking
 
-### 💻 Programming
-
-- Python *(Coming Soon)*
-- Git & GitHub *(Coming Soon)*
+**Status:** In Progress 🚀
 
 ##
 
 ### 🔐 Cybersecurity
 
-- *(Coming Soon)*
+Currently learning:
+
+- Networking Fundamentals
+- Linux Basics
+- OWASP Top 10
+
+**Status:** Learning 🚀
+
+##
+
+### 💻 Programming
+
+Currently strengthening:
+
+- Python
+- C++
+- SQL
+- Git & GitHub
+
+**Status:** Ongoing 🚀
 
 ---
 
-## 📌 Learning Philosophy
+### 🎯 Roadmap
 
-I believe certifications should demonstrate practical skills rather than simply completing courses.
+Upcoming certifications and credentials include:
 
-Wherever possible, each certification is accompanied by:
+- Microsoft Applied Skills (Azure AI)
+- Microsoft Applied Skills (Azure Storage)
+- Microsoft Applied Skills (Azure Identity)
+- Microsoft Applied Skills (Azure Networking)
+- Microsoft Learn achievements
 
-- 📄 Credential
+---
+
+### 📌 Learning Philosophy
+
+I believe certifications should represent practical skills rather than simply completing courses.
+
+Whenever possible, every certification in this repository is accompanied by:
+
 - 💻 Related Project
-- 📖 Notes
+- 📖 Documentation
 - 🧪 Hands-on Labs
 - 📝 Key Learnings
-
----
 
 > Learning → Building → Documenting → Sharing 🚀
