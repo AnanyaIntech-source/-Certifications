@@ -13,6 +13,13 @@ This repository contains my professional certifications and technical credential
 - **Credential:** Microsoft Applied Skills
 - **Status:** Completed
 
+#### Skills Demonstrated
+- Azure Monitor
+- Data Collection Rules
+- Log Analytics
+- Alerts
+- Monitoring Azure Resources
+
 ##
 
 ### 🤖 Artificial Intelligence
