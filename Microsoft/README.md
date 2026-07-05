@@ -1,6 +1,8 @@
 ## Microsoft Certifications
 
-This folder contains my Microsoft certifications and credentials.
+Professional credentials earned through Microsoft Learn.
+
+---
 
 ### Applied Skills
 
