@@ -1,11 +1,16 @@
 # 🏆 Certifications
+> A public repository of all my certificates and licenses.
+---
 
+## About
 Welcome to my certification portfolio.
 
 This repository contains my professional certifications and technical credentials earned throughout my learning journey in Artificial Intelligence, Cloud Computing and Software Development.
 
+---
+
 ## Credential Providers
-- 📘 [Microsoft](https://github.com/AnanyaIntech-source/-Certifications/blob/main/Microsoft/README.md)
+- 📘 [Microsoft]([https://github.com/AnanyaIntech-source/-Certifications/blob/main/Microsoft/README.md](https://github.com/AnanyaIntech-source/-Certifications/tree/main/Microsoft))
 
 ---
 ## Project Structure
