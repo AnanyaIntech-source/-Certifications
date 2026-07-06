@@ -39,7 +39,7 @@ These credentials cover practical learning across Azure services, Microsoft 365 
 ## Contact
 For any questions, feedback, or collaborations, feel free to reach out:  
 **Ananya Siju**  
-[LinkedIn]([https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/ananya-siju-a04835291/)) | [GitHub](https://github.com/AnanyaIntech-source) | ananyasiju16@gmail.com
+[LinkedIn](https://www.linkedin.com/in/ananya-siju-a04835291/) | [GitHub](https://github.com/AnanyaIntech-source) | ananyasiju16@gmail.com
 
 ---
 
