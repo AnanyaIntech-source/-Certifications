@@ -21,7 +21,7 @@ These credentials validate foundational database development skills using Oracle
 
 ---
 
-## Applied Skills
+## Certifications
 
 - [Databases for Developers: Foundations](https://github.com/AnanyaIntech-source/-Certifications/blob/main/Oracle/oracle-databases-for%20developers.pdf.pdf)
 
