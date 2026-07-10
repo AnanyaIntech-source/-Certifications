@@ -10,9 +10,9 @@ This repository contains my professional certifications and technical credential
 ---
 
 ## Credential Providers
-- ☁️ Amazon Web Services (AWS)
-- 📘 Microsoft
-- 🔶 Oracle
+- ☁️ [Amazon Web Services (AWS)](https://github.com/AnanyaIntech-source/-Certifications/tree/main/Amazon%20Web%20Services%20(AWS))
+- 📘 [Microsoft](https://github.com/AnanyaIntech-source/-Certifications/tree/main/Microsoft)
+- 🔶 [Oracle](https://github.com/AnanyaIntech-source/-Certifications/tree/main/Oracle)
 
 ---
 ## Project Structure
