@@ -1,4 +1,4 @@
-# Microsoft Certifications
+# 📘 Microsoft Certifications
 
 > Professional certifications earned through Microsoft Learn.
 
