@@ -1,4 +1,4 @@
-# Amazon Web Services (AWS) Certifications
+# ☁️ Amazon Web Services (AWS) Certifications
 
 > Professional certificates earned through AWS Training & Certification.
 
