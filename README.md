@@ -10,7 +10,7 @@ This repository contains my professional certifications and technical credential
 ---
 
 ## Credential Providers
-- 📘 [Microsoft]([https://github.com/AnanyaIntech-source/-Certifications/blob/main/Microsoft/README.md](https://github.com/AnanyaIntech-source/-Certifications/tree/main/Microsoft))
+- 📘 Microsoft
 
 ---
 ## Project Structure
