@@ -10,13 +10,19 @@ This repository contains my professional certifications and technical credential
 ---
 
 ## Credential Providers
+- ☁️ Amazon Web Services (AWS)
 - 📘 Microsoft
+- 🔶 Oracle
 
 ---
 ## Project Structure
 
 ```text
 Certificates/
+|
+├── Amazon Web Services (AWS)/
+|   └── aws-cloud-practitioner-essentials.pdf
+|
 ├── Microsoft/
 |   ├── README.md
 |   ├── employ-copilot-chat-as-your-ai-assistant.png
@@ -27,6 +33,10 @@ Certificates/
 |   ├── microsoft-applied-skills-deploy-and-configure-azure-monitor-certificate.pdf
 |   ├── microsoft-applied-skills-generate-reports-with-ai-research-agents.pdf
 |   └── unlock-productivity-and-unleash-creativity-with-ai-powered-chat.png
+|
+├── Oracle/
+|   └── oracle-databases-for developers.pdf.pdf
+|
 ├── LICENSE
 └── README.md
 ```
