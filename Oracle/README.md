@@ -1,4 +1,4 @@
-# Oracle Certifications
+# 🔶 Oracle Certifications
 
 > Professional certificates earned through Oracle.
 
