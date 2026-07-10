@@ -22,7 +22,7 @@ These credentials demonstrate foundational knowledge of Amazon Web Services, clo
 
 ---
 
-## Applied Skills
+## Certifications
 
 - [AWS Cloud Practitioner Essentials](https://github.com/AnanyaIntech-source/-Certifications/blob/main/Amazon%20Web%20Services%20(AWS)/aws-cloud-practitioner-essentials.pdf.pdf)
 
