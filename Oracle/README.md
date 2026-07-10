@@ -1,40 +1,39 @@
-# Amazon Web Services (AWS) Certifications
+# Oracle Certifications
 
-> Professional certificates earned through AWS Training & Certification.
+> Professional certificates earned through Oracle.
 
 ---
 
 ## Overview
 
-These credentials demonstrate foundational knowledge of Amazon Web Services, cloud computing concepts, AWS core services, security, pricing models, and cloud architecture best practices.
+These credentials validate foundational database development skills using Oracle Database, SQL, relational database concepts, and best practices for building data-driven applications.
 
 ## Topics Covered
 
-- Cloud Computing Fundamentals
-- AWS Global Infrastructure
-- AWS Core Services
-- Compute, Storage & Networking
-- Security & Identity (IAM)
-- Cloud Architecture
-- AWS Pricing & Support
-- Shared Responsibility Model
-- AWS Well-Architected Principles
+- Oracle Database Fundamentals
+- Relational Database Concepts
+- SQL Queries
+- Data Modeling
+- Tables & Constraints
+- Data Manipulation (DML)
+- Database Design
+- Database Development Best Practices
 
 ---
 
 ## Applied Skills
 
-- [AWS Cloud Practitioner Essentials](https://github.com/AnanyaIntech-source/-Certifications/blob/main/Oracle/oracle-databases-for%20developers.pdf.pdf)
+- [Databases for Developers: Foundations](https://github.com/AnanyaIntech-source/-Certifications/blob/main/Oracle/oracle-databases-for%20developers.pdf.pdf)
 
 ---
 
 ## Skills Gained
-- Understanding AWS Cloud concepts
-- Identifying core AWS services and their use cases
-- Implementing cloud security best practices
-- Understanding AWS pricing and billing models
-- Designing basic cloud-based solutions
-- Applying cloud computing fundamentals
+- Writing SQL queries
+- Designing relational databases
+- Working with tables and constraints
+- Retrieving and manipulating data
+- Understanding database normalization
+- Applying Oracle database development concepts
 
 ---
 
