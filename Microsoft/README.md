@@ -35,6 +35,21 @@ These credentials cover practical learning across Azure services, Microsoft 365 
 - [Introduction to prompt engineering with GitHub Copilot](https://learn.microsoft.com/api/achievements/share/en-us/Ananya-6311/9A768NTU?sharingId=1AA365C049E722C5)
 
 ---
+## Skills Gained
+
+- Microsoft Azure fundamentals
+- Azure Monitor deployment and configuration
+- Monitoring and observability in Azure
+- Artificial Intelligence (AI) concepts
+- Microsoft 365 Copilot productivity
+- AI-powered research and report generation
+- Prompt engineering with GitHub Copilot
+- Effective use of AI assistants
+- AI-assisted workflow automation
+- Cloud computing fundamentals
+- AI-driven problem solving
+- Responsible AI practices
+---
 
 ## Contact
 For any questions, feedback, or collaborations, feel free to reach out:  
